@@ -9,7 +9,7 @@ Com a ajuda da Alura, tive o desafio de colocar em prática o JavaScript em um p
 | :rocket: URL         | https://alugames-three.vercel.app/#
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](]https://thumbs2.imgbox.com/f8/f0/LAOM7xxS_t.png?#vitrinedev)
+![Projeto final](https://github.com/jhuspindola/alugames/assets/105029642/865918c3-3119-41da-887f-22952f269099?#vitrinedev)
 
 ## Detalhes do projeto
 
